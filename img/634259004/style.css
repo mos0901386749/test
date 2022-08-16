@@ -1,0 +1,12 @@
+p#message{
+    color:blueviolet
+}
+h1.title{
+    color:cadetblue
+}
+h3{
+    text-transform: uppercase;
+}
+Body{
+    background-color: chocolate;
+}
